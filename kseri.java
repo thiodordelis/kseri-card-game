@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
 
-public class FirstJavaProgram {
+public class kseri {
 	static List<String[]> deck = new ArrayList<>();
 	static List<String[]> playerDeck = new ArrayList<>();
 	static List<String[]> CPUDeck = new ArrayList<>();
